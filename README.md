@@ -4,10 +4,8 @@
 
 ### Purpose
 
-1.	To refactor a Microsoft Excel VBA code to collect certain stock information in the year 2017 and 2018 
+1.	To refactor a Microsoft Excel VBA code to collect certain stock information in the year 2017 and 2018 and evalute if it reduces run time for macro.
 2.	Determine whether or not the stocks are worth investing. 
-
-The process was completed during our training module but the purpose was to alter the code to reduce the run timeline
 
 #### The Data
 The data presented has 2 charts with information on 12 stocks covering returns for the periods 2017 and 2018. Data includes daily stock ticker information showing market opening, closing, Adjusted Closing, high and low prices as well as the daily traded volume of each stock.
